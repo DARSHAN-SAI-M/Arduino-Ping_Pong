@@ -17,7 +17,8 @@ A simple Pong game using an Arduino Uno, OLED display, and two potentiometers as
 
 ## ⚡ Circuit Diagram
 
-![Arduino Circuit](![PingPong_circuit_diagram](https://github.com/user-attachments/assets/cf4e061d-fb61-4b65-ae7b-6b019ca5a69f))
+![Arduino Circuit]![PingPong_circuit_diagram](https://github.com/user-attachments/assets/d96e11fe-dbf0-4085-804f-f14f30e6f73e)
+()
 
 ---
 
